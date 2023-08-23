@@ -45,5 +45,5 @@ For our put option, we can see how Delta varies with changes in time to expiry:
 ### Delta Hedging
 
 We will then finally see that for a delta-neutral portfolio, assuming we have 100 shares, we would be required to buy "2" put options.
-Option contract value to delta hedge AMZN comes out to be $1662.
+Option contract value to delta hedge AMZN comes out to be $1371.
 We will also see that with a $1 decrease in the stock price, value changes very negligibly.
